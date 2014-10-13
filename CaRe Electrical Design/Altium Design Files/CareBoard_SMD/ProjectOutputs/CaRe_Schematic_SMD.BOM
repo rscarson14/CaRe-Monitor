@@ -1,0 +1,43 @@
+Bill of Material for 
+On 6/13/2014 at 12:19:51 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 10mmTT              10mmLED          3    D4, D5, D6                   Typical RED LED      
+ 10uF                0805TANTCAP      5    C9, C13, C16, C22, C23       Polarized Capacitor (Radial) 
+ 4.7uH               INDP4330X10N     1    L1                           Inductor             
+ ATmega328P-PU       28P3             1    U6                           8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C) 
+ BAT                 JST-2 Pin SMD Connector    1    P4                           Header, 2-Pin        
+ BAT42W              SOD-523          3    D1, D2, D3                   Schottky Diode       
+ BSP304              SOT23_L          1    Q1                           P-channel Enhancement Mode Vertical D-MOSFET 
+ Capacitor           CAP0805         20    C1, C2, C3, C4, C5, C6, C7   Capacitor            
+                                           C8, C10, C11, C12, C14, C15
+                                           C17, C18, C19, C20, C21, C24
+                                           C25
+ CHIPLED_RED         CHIP_LED0805     1    DS1                          Typical RED LED      
+ ECS-10-3-1          HC-49U           1    Y1                           Crystal Oscillator   
+ ELECTRODES          JST 4-Pin SMD    1    P6                           Header, 4-Pin        
+ FRNT_PNL            JST-SH 7-Pin Vertical SMD    1    P7                           Header, 7-Pin        
+ FT232RL-Reel        SSOP-28_L(FTDI)    1    U9                           USB UART Asynchronous Serial Data Transfer Chip, SSOP-28, Tape and Reel 
+ GARMENT_CONNECTOR   GARMENT_DIN      1    *                                                 
+ Header 5            HDR1X5           1    P8                           Header, 5-Pin        
+ Header 7            HDR1X7           1    P3                           Header, 7-Pin        
+ ICSP                HDR2X3           1    P1                           Header, 3-Pin, Dual row 
+ LM4040              SOT23_L          1    U4                           Precision Micropower Shunt Voltage Reference, 0.1% accuracy, 2.5 V, 15 ppm / degC, 15 mA, -40 to 85 degC, 3-pin SOT-23 (DBZ), Green (RoHS & no Sb/Br) 
+ LT1920              LT-S8-8_L(LT1920)    1    U5                           Low-Cost, Low-Power Instrumentation Amplifier 
+ MCP73831T-2ADI/OT   SOT-23-OT5_L     1    U7                           Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel 
+ MF-MSMF050-1        MF-MSMF050 FOOTPRINT    1    F1                           PTC Resettable Fuse 500 mA 
+ On/Off Rocker Swith Power_Switch     1    SW2                                               
+ Resistor            RES0805         26    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20, R21, R22, R23, R24, R25
+                                           R26
+ Slider Switch       SLIDER           1    SW3                                               
+ Speaker             HDR1X2           1    LS1                          Loudspeaker          
+ SW-SPST             SPST             1    S1                           Single-Pole, Single-Throw Switch 
+ TLV274IN            TI-D14_L         2    U1, U3                       JFET-Input Operational Amplifier 
+ TOP_PNL             JST 5 Pin SMD    1    P5                           Header, 5-Pin        
+ TPS61200DRCT        DRC10-2400X1650TP    1    U8                           Boost Voltage Converter with 0.3 to 5.5 V Input and 1.8 to 5.5 V Output, -40 to 85 degC, 10-Pin SON (DRC), Green (RoHS & no Sb/Br) 
+ USB                 JST 4-Pin SMD    1    P2                           Header, 4-Pin        
+ XXXXX               SOIC-8           1    U2                           Nonvolatile Trimmer Potentiometer 

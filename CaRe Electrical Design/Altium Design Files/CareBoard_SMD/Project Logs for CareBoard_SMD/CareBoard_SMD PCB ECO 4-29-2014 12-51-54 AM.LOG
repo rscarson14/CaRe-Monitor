@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=MONITOREN Pin=-2
+Removed Pin From Net: NetName=LED1 Pin=R13-2
+Removed Pin From Net: NetName=LED2 Pin=R14-2
+Removed Pin From Net: NetName=LED3 Pin=R15-2
+Removed Member From Class: ClassName=CaRe_Schematic_SMD Member=R13
+Removed Member From Class: ClassName=CaRe_Schematic_SMD Member=R14
+Removed Member From Class: ClassName=CaRe_Schematic_SMD Member=R15
+Added Component: Designator=HEARTBEAT(CHIP_LED0805)
+Added Component: Designator=P?(JST-SH 7-Pin Vertical SMD)
+Added Component: Designator=P?(JST-SH 7-Pin Vertical SMD)
+Added Pin To Net: NetName=+5V Pin=P?-1
+Added Pin To Net: NetName=+5V Pin=P?-1
+Added Pin To Net: NetName=MONITOREN Pin=P?-2
+Added Pin To Net: NetName=PWRCELL_OUT Pin=P?-2
+Added Pin To Net: NetName=LED1 Pin=P?-3
+Added Pin To Net: NetName=LED2 Pin=P?-4
+Added Pin To Net: NetName=LED3 Pin=P?-5
+Added Pin To Net: NetName=ALMOUT Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=+3.3V Pin=P?-3
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=DUR1 Pin=P?-4
+Added Net: Name=DUR1
+Added Pin To Net: NetName=DUR2 Pin=P?-5
+Added Net: Name=DUR2
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component HEARTBEAT GREEN
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component P? TOP_PANEL

@@ -1,0 +1,178 @@
+Change Component Parameter Comment in C1 Old= New=Capacitor
+Change Component Parameter Library Reference in C1 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C1 Old=10nF New=100pF
+Change Component Parameter Comment in C2 Old= New=Capacitor
+Change Component Parameter Library Reference in C2 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C2 Old=10nF New=100pF
+Change Component Parameter Comment in C3 Old= New=Capacitor
+Change Component Parameter Library Reference in C3 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C3 Old=47pF New=100pF
+Change Component Parameter Comment in C4 Old= New=Capacitor
+Change Component Parameter Library Reference in C4 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C4 Old=100nF New=100pF
+Change Component Parameter Comment in C5 Old= New=Capacitor
+Change Component Parameter Library Reference in C5 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C5 Old=10nF New=100pF
+Change Component Parameter Comment in C6 Old= New=Capacitor
+Change Component Parameter Library Reference in C6 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C6 Old=10uF New=100pF
+Change Component Parameter Comment in C7 Old= New=Capacitor
+Change Component Parameter Library Reference in C7 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C7 Old=10uF New=100pF
+Change Component Parameter Comment in C8 Old= New=Capacitor
+Change Component Parameter Library Reference in C8 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C8 Old=100nF New=100pF
+Change Component Parameter Comment in C9 Old= New==Part Number
+Change Component Parameter Description in C9 Old=Polarized Capacitor (Axial) New=Polarized Capacitor (Radial)
+Change Component Parameter Library Reference in C9 Old=SockCapPol New=Cap Tant
+Change Value of Parameter PackageDescription in Part C9 Old=Polarized Capacitor; 2 Leads New=Polarized Capacitor (Radial); 2 Leads
+Change Value of Parameter PackageReference in Part C9 Old=POLAR0.8 New=RB7.6-15
+Change Component Parameter Comment in C10 Old= New=Capacitor
+Change Component Parameter Library Reference in C10 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C10 Old=10nF New=100pF
+Change Component Parameter Comment in C11 Old= New=Capacitor
+Change Component Parameter Library Reference in C11 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C11 Old=10uF New=100pF
+Change Component Parameter Comment in C12 Old= New=Capacitor
+Change Component Parameter Library Reference in C12 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C12 Old=100nF New=100pF
+Change Component Parameter Comment in C13 Old= New==Part Number
+Change Component Parameter Description in C13 Old=Polarized Capacitor (Axial) New=Polarized Capacitor (Radial)
+Change Component Parameter Library Reference in C13 Old=SockCapPol New=Cap Tant
+Change Value of Parameter PackageDescription in Part C13 Old=Polarized Capacitor; 2 Leads New=Polarized Capacitor (Radial); 2 Leads
+Change Value of Parameter PackageReference in Part C13 Old=POLAR0.8 New=RB7.6-15
+Change Component Parameter Comment in C14 Old= New=Capacitor
+Change Value of Parameter Value in Part C14 Old=4.7uF New=100pF
+Change Component Parameter Comment in C15 Old= New=Capacitor
+Change Component Parameter Library Reference in C15 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C15 Old=22pF New=100pF
+Change Component Parameter Comment in C16 Old= New==Part Number
+Change Component Parameter Comment in C17 Old= New=Capacitor
+Change Value of Parameter Value in Part C17 Old=4.7uF New=100pF
+Change Component Parameter Comment in C18 Old= New=Capacitor
+Change Value of Parameter Value in Part C18 Old=100nF New=100pF
+Change Component Parameter Comment in C19 Old= New=Capacitor
+Change Component Parameter Library Reference in C19 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C19 Old=22pF New=100pF
+Change Component Parameter Comment in C20 Old= New=Capacitor
+Change Component Parameter Library Reference in C20 Old=SockCap New=Chip Cap
+Change Value of Parameter Value in Part C20 Old=100nF New=100pF
+Change Component Parameter Comment in C21 Old= New=Capacitor
+Change Value of Parameter Value in Part C21 Old=100nF New=100pF
+Change Component Parameter Comment in C22 Old= New==Part Number
+Change Component Parameter Description in C22 Old=Polarized Capacitor (Axial) New=Polarized Capacitor (Radial)
+Change Component Parameter Library Reference in C22 Old=SockCapPol New=Cap Tant
+Change Value of Parameter PackageDescription in Part C22 Old=Polarized Capacitor; 2 Leads New=Polarized Capacitor (Radial); 2 Leads
+Change Value of Parameter PackageReference in Part C22 Old=POLAR0.8 New=RB7.6-15
+Change Component Parameter Comment in C23 Old= New==Part Number
+Change Component Parameter Comment in C24 Old= New=Capacitor
+Change Value of Parameter Value in Part C24 Old=22uF New=100pF
+Change Component Parameter Comment in C25 Old= New=Capacitor
+Change Value of Parameter Value in Part C25 Old=100nF New=100pF
+Change Component Parameter Comment in R1 Old= New=Resistor
+Change Component Parameter Library Reference in R1 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R1 Old=2.7K New=1K
+Change Component Parameter Comment in R2 Old= New=Resistor
+Change Component Parameter Library Reference in R2 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R2 Old=10K New=1K
+Change Component Parameter Comment in R3 Old= New=Resistor
+Change Component Parameter Library Reference in R3 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R3 Old=2.2K New=1K
+Change Component Parameter Comment in R4 Old= New=Resistor
+Change Component Parameter Library Reference in R4 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R4 Old=500 New=1K
+Change Component Parameter Comment in R5 Old= New=Resistor
+Change Component Parameter Library Reference in R5 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R5 Old=24K New=1K
+Change Component Parameter Comment in R6 Old= New=Resistor
+Change Component Parameter Library Reference in R6 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R6 Old=27K New=1K
+Change Component Parameter Comment in R7 Old= New=Resistor
+Change Component Parameter Library Reference in R7 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R7 Old=560 New=1K
+Change Component Parameter Comment in R8 Old= New=Resistor
+Change Component Parameter Library Reference in R8 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R8 Old=560K New=1K
+Change Component Parameter Comment in R9 Old= New=Resistor
+Change Component Parameter Library Reference in R9 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R9 Old=560 New=1K
+Change Component Parameter Comment in R10 Old= New=Resistor
+Change Component Parameter Library Reference in R10 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R10 Old=220K New=1K
+Change Component Parameter Comment in R11 Old= New=Resistor
+Change Component Parameter Library Reference in R11 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R11 Old=220K New=1K
+Change Component Parameter Comment in R12 Old= New=Resistor
+Change Component Parameter Library Reference in R12 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R12 Old=560 New=1K
+Change Component Parameter Comment in R13 Old= New=Resistor
+Change Component Parameter Library Reference in R13 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R13 Old=370K New=1K
+Change Component Parameter Comment in R14 Old= New=Resistor
+Change Component Parameter Library Reference in R14 Old=SockRes New=Chip Res
+Change Value of Parameter Value in Part R14 Old=15K New=1K
+Change Component Parameter Comment in R15 Old= New=Resistor
+Change Component Parameter Comment in R16 Old= New=Resistor
+Change Value of Parameter Value in Part R16 Old=330 New=1K
+Change Component Parameter Comment in R17 Old= New=Resistor
+Change Value of Parameter Value in Part R17 Old=2K New=1K
+Change Component Parameter Comment in R18 Old= New=Resistor
+Change Value of Parameter Value in Part R18 Old=2M New=1K
+Change Component Parameter Comment in R19 Old= New=Resistor
+Change Value of Parameter Value in Part R19 Old=2M New=1K
+Change Component Parameter Comment in R20 Old= New=Resistor
+Change Value of Parameter Value in Part R20 Old=220K New=1K
+Change Component Parameter Comment in R21 Old= New=Resistor
+Change Value of Parameter Value in Part R21 Old=220K New=1K
+Added Parameter Manufacturer=AVX to Part C9
+Added Parameter Manufacturer=AVX to Part C13
+Added Parameter Manufacturer=AVX to Part C22
+Added Parameter Part Number=TAJP106M010RNJ to Part C9
+Added Parameter Part Number=TAJP106M010RNJ to Part C13
+Added Parameter Part Number=TAJP106M010RNJ to Part C22
+Replace Symbol from C1 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C2 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C3 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C4 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C5 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C6 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C7 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C8 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C9 Cap Tant in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Cap Tant from CaRe_SchematicLib.SchLib
+Replace Symbol from C10 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C11 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C12 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C13 Cap Tant in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Cap Tant from CaRe_SchematicLib.SchLib
+Replace Symbol from C14 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C15 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C16 Cap Tant in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Cap Tant from CaRe_SchematicLib.SchLib
+Replace Symbol from C17 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C18 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C19 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C20 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C21 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C22 Cap Tant in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Cap Tant from CaRe_SchematicLib.SchLib
+Replace Symbol from C23 Cap Tant in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Cap Tant from CaRe_SchematicLib.SchLib
+Replace Symbol from C24 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from C25 Chip Cap in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Cap from CaRe_SchematicLib.SchLib
+Replace Symbol from R1 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R2 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R3 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R4 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R5 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R6 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R7 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R8 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R9 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R10 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R11 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R12 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R13 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R14 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R15 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R16 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R17 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R18 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R19 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R20 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib
+Replace Symbol from R21 Chip Res in \\psf\Google Drive\CaRe PCB Project 2014\CareBoard_SMD\CaRe_Schematic_SMD.SchDoc with Chip Res from CaRe_SchematicLib.SchLib

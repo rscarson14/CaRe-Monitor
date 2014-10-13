@@ -1,0 +1,16 @@
+Change Component Comment : Designator=P? Old Comment=FRNT_PANEL New Comment=FRNT_PNL
+Change Component Comment : Designator=P? Old Comment=TOP_PANEL New Comment=TOP_PNL
+Change Component Designator: OldDesignator=P? NewDesignator=FRNT_PNL
+Change Component Designator: OldDesignator=P? NewDesignator=TOP_PNL
+Added Pin To Net: NetName=LED1 Pin=FRNT_PNL-3
+Added Pin To Net: NetName=LED2 Pin=FRNT_PNL-4
+Added Pin To Net: NetName=LED3 Pin=FRNT_PNL-5
+Added Pin To Net: NetName=+5V Pin=TOP_PNL-1
+Added Pin To Net: NetName=+3.3V Pin=TOP_PNL-3
+Added Pin To Net: NetName=DUR1 Pin=TOP_PNL-4
+Added Pin To Net: NetName=DUR2 Pin=TOP_PNL-5
+Added Pin To Net: NetName=GND Pin=TOP_PNL-7
+Change Net Name : Old Net Name=PWRCELL_OUT New Net Name=MONITOREN
+Added Pin To Net: NetName=PWRCELL_OUT Pin=TOP_PNL-2
+Added Net: Name=PWRCELL_OUT
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component TOP_PNL

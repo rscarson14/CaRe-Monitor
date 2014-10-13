@@ -1,0 +1,150 @@
+Removed Pin From Net: NetName=VUSB Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VBUS Pin=C20-2
+Removed Pin From Net: NetName=+5V Pin=U1-1
+Removed Pin From Net: NetName=LED2 Pin=U1-17
+Removed Pin From Net: NetName=LED3 Pin=U1-18
+Removed Pin From Net: NetName=ALMOUT Pin=U1-19
+Removed Pin From Net: NetName=NetR16_1 Pin=U7-2
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Member From Class: ClassName=CaRe_Schematic_SMD Member=C20
+Change Component DesignItemId : Designator=U7 Old DesignItemId=LM336BZ-2.5 New DesignItemId=TPS61200DRCT
+Change Component DesignItemId : Designator=F1 Old DesignItemId=MF-MSMF050-500mA New DesignItemId=PTC Fuse
+Change Component DesignItemId : Designator=C10 Old DesignItemId=SockCapPol New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=D1 Old DesignItemId=SockSchot New DesignItemId=BAT42W
+Change Component DesignItemId : Designator=D2 Old DesignItemId=SockSchot New DesignItemId=BAT42W
+Change Component Footprint: Designator=D1 Old Footprint=1X04SCH New Footprint=SOD-123
+Change Component Footprint: Designator=D2 Old Footprint=1X04SCH New Footprint=SOD-123
+Change Component Footprint: Designator=C10 Old Footprint=0805TANTCAP New Footprint=CAP0805
+Change Component Footprint: Designator=U7 Old Footprint=Z03A New Footprint=DRC10-2400X1650TP
+Change Component Comment : Designator=U7 Old Comment=LM336BZ-2.5 New Comment=TPS61200DRCT
+Change Component Comment : Designator=F1 Old Comment=MF-MSMF050-2 500mA New Comment=MF-MSMF050-1
+Change Component Comment : Designator=C10 Old Comment=SockCapPol New Comment=4.7uF
+Change Component Comment : Designator=D1 Old Comment=SockSchot New Comment=BAT42W
+Change Component Comment : Designator=D2 Old Comment=SockSchot New Comment=BAT42W
+Change Component Description : Designator=F1 Old Description= New Description=PTC Resettable Fuse 500 mA
+Change Component Library : Designator=F1 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Added Component: Designator=C11(CAP0805)
+Added Component: Designator=C12(CAP0805)
+Added Component: Designator=C13(CAP0805)
+Added Component: Designator=C14(0805TANTCAP)
+Added Component: Designator=C17(0805TANTCAP)
+Added Component: Designator=C18(CAP0805)
+Added Component: Designator=C19(CAP0805)
+Added Component: Designator=D3(SOD-123)
+Added Component: Designator=DS1(CHIP_LED0805)
+Added Component: Designator=L1(INDP4330X10N)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P6(HDR2X3)
+Added Component: Designator=R13(RES0805)
+Added Component: Designator=R14(RES0805)
+Added Component: Designator=R18(RES0805)
+Added Component: Designator=R20(RES0805)
+Added Component: Designator=R21(RES0805)
+Added Component: Designator=R22(RES0805)
+Added Component: Designator=R24(RES0805)
+Added Component: Designator=U5(SOT-23-OT5_L)
+Added Component: Designator=U7(SOT23_L)
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VBUS Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VUSB Pin=C12-2
+Added Pin To Net: NetName=VBUS Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+5V Pin=D3-2
+Added Pin To Net: NetName=VBUS Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=VUSB Pin=P3-1
+Added Pin To Net: NetName=D+ Pin=P3-2
+Added Pin To Net: NetName=D- Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=+5V Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-6
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=+5V Pin=R24-2
+Added Pin To Net: NetName=DUR1 Pin=U1-14
+Added Pin To Net: NetName=DUR2 Pin=U1-15
+Added Pin To Net: NetName=LED2 Pin=U1-26
+Added Pin To Net: NetName=LED3 Pin=U1-27
+Added Pin To Net: NetName=ALMOUT Pin=U1-28
+Added Pin To Net: NetName=+3.3V Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=VBUS Pin=U5-4
+Added Pin To Net: NetName=NetR16_1 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Change Net Name : Old Net Name=HEARTBEAT New Net Name=BATSTAT
+Added Pin To Net: NetName=MISO Pin=P6-1
+Added Pin To Net: NetName=MISO Pin=U1-18
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P6-4
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U7-1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R13-1
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U7-3
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U5-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U5-5
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=R22-2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=RESET Pin=D3-1
+Added Pin To Net: NetName=RESET Pin=P6-5
+Added Pin To Net: NetName=RESET Pin=R24-1
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=P6-3
+Added Pin To Net: NetName=SCK Pin=U1-19
+Added Net: Name=SCK
+Added Pin To Net: NetName=UVLO 2.6V Pin=C13-1
+Added Pin To Net: NetName=UVLO 2.6V Pin=R18-1
+Added Pin To Net: NetName=UVLO 2.6V Pin=R20-2
+Added Net: Name=UVLO 2.6V
+Added Pin To Net: NetName=VBAT Pin=C13-2
+Added Pin To Net: NetName=VBAT Pin=C17-1
+Added Pin To Net: NetName=VBAT Pin=L1-1
+Added Pin To Net: NetName=VBAT Pin=R18-2
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCC Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=C18-1
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=R21-2
+Added Pin To Net: NetName=VCC Pin=TOP_PNL-2
+Added Pin To Net: NetName=VCC Pin=U1-24
+Added Pin To Net: NetName=VCC Pin=U5-3
+Added Pin To Net: NetName=VCC Pin=U7-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component C14 10uF
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component D3 BAT42W
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component DS1 CHIPLED_RED
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component L1 4.7uH
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component P1 Battery
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component P3 Header 4
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component P6 ICSP
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R13 330
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R14 2K
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R18 2M
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R20 220K
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R21 2M
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R22 220K
+Added Member To Class: ClassName=CaRe_Schematic_SMD Member=Component R24 1K
+Added Room: Name=CaRe_Schematic_SMD

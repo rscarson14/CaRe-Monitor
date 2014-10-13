@@ -1,0 +1,179 @@
+Removed Pin From Net: NetName=RESET Pin=U6-1
+Removed Pin From Net: NetName=ATRX Pin=U6-2
+Removed Pin From Net: NetName=ATTX Pin=U6-3
+Removed Pin From Net: NetName=MONITOREN Pin=U6-4
+Removed Pin From Net: NetName=ALMOUT Pin=U6-5
+Removed Pin From Net: NetName=BATSTAT Pin=U6-6
+Removed Pin From Net: NetName=+5V Pin=U6-7
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=XTAL1 Pin=U6-9
+Removed Pin From Net: NetName=XTAL2 Pin=U6-10
+Removed Pin From Net: NetName=POTCS Pin=U6-11
+Removed Pin From Net: NetName=POTINC Pin=U6-12
+Removed Pin From Net: NetName=POTU/D Pin=U6-13
+Removed Pin From Net: NetName=DUR1 Pin=U6-14
+Removed Pin From Net: NetName=DUR2 Pin=U6-15
+Removed Pin From Net: NetName=AVCC_CTRL Pin=U6-16
+Removed Pin From Net: NetName=MOSI Pin=U6-17
+Removed Pin From Net: NetName=MISO Pin=U6-18
+Removed Pin From Net: NetName=SCK Pin=U6-19
+Removed Pin From Net: NetName=+5V Pin=U6-20
+Removed Pin From Net: NetName=+5V Pin=U6-21
+Removed Pin From Net: NetName=GND Pin=U6-22
+Removed Pin From Net: NetName=VSIG Pin=U6-23
+Removed Pin From Net: NetName=VBAT Pin=U6-24
+Removed Pin From Net: NetName=GAINFBK Pin=U6-25
+Removed Pin From Net: NetName=LED1 Pin=U6-26
+Removed Pin From Net: NetName=LED2 Pin=U6-27
+Removed Pin From Net: NetName=LED3 Pin=U6-28
+Change Component DesignItemId : Designator=C1 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C2 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C3 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C4 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C5 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C7 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C8 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C11 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C12 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C15 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C19 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C20 Old DesignItemId=SockCap New DesignItemId=Chip Cap
+Change Component DesignItemId : Designator=C9 Old DesignItemId=SockCapPol New DesignItemId=Cap Tant
+Change Component DesignItemId : Designator=C13 Old DesignItemId=SockCapPol New DesignItemId=Cap Tant
+Change Component DesignItemId : Designator=C22 Old DesignItemId=SockCapPol New DesignItemId=Cap Tant
+Change Component DesignItemId : Designator=R1 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R2 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R3 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R4 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R5 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R6 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R7 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R8 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R9 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R10 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R11 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R12 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R13 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component DesignItemId : Designator=R14 Old DesignItemId=SockRes New DesignItemId=Chip Res
+Change Component Footprint: Designator=D4 Old Footprint=10MMLED New Footprint=LED-0
+Change Component Footprint: Designator=D5 Old Footprint=10MMLED New Footprint=LED-0
+Change Component Footprint: Designator=D6 Old Footprint=10MMLED New Footprint=LED-0
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X7 New Footprint=JST-SH 7-Pin Vertical SMD
+Change Component Footprint: Designator=LS1 Old Footprint=JST-2 PIN SMD CONNECTOR New Footprint=PIN2
+Change Component Footprint: Designator=S1 Old Footprint=SPST New Footprint=SPST-2
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=Resistor
+Change Component Comment : Designator=R17 Old Comment=2K New Comment=Resistor
+Change Component Comment : Designator=R18 Old Comment=2M New Comment=Resistor
+Change Component Comment : Designator=R19 Old Comment=2M New Comment=Resistor
+Change Component Comment : Designator=C14 Old Comment=4.7uF New Comment=Capacitor
+Change Component Comment : Designator=C17 Old Comment=4.7uF New Comment=Capacitor
+Change Component Comment : Designator=C24 Old Comment=22uF New Comment=Capacitor
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=Capacitor
+Change Component Comment : Designator=C21 Old Comment=100nF New Comment=Capacitor
+Change Component Comment : Designator=C25 Old Comment=100nF New Comment=Capacitor
+Change Component Comment : Designator=R20 Old Comment=220K New Comment=Resistor
+Change Component Comment : Designator=R21 Old Comment=220K New Comment=Resistor
+Change Component Comment : Designator=R16 Old Comment=330 New Comment=Resistor
+Change Component Comment : Designator=LS1 Old Comment=ALARM New Comment=Speaker
+Change Component Comment : Designator=D5 Old Comment=CARDIAC New Comment=LED0
+Change Component Comment : Designator=S1 Old Comment=ENABLE New Comment=SW-SPST
+Change Component Comment : Designator=P7 Old Comment=FRONT_PANEL New Comment=FRNT_PNL
+Change Component Comment : Designator=P3 Old Comment=Front Panel Connections New Comment=Header 7
+Change Component Comment : Designator=D6 Old Comment=RESPIRATORY New Comment=LED0
+Change Component Comment : Designator=C1 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C2 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C3 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C4 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C5 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C6 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C7 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C8 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C10 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C11 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C12 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C15 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C19 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C20 Old Comment=SockCap New Comment=Capacitor
+Change Component Comment : Designator=C9 Old Comment=SockCapPol New Comment=10uF
+Change Component Comment : Designator=C13 Old Comment=SockCapPol New Comment=10uF
+Change Component Comment : Designator=C22 Old Comment=SockCapPol New Comment=10uF
+Change Component Comment : Designator=R1 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R2 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R3 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R4 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R5 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R6 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R7 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R8 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R9 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R10 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R11 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R12 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R13 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=R14 Old Comment=SockRes New Comment=Resistor
+Change Component Comment : Designator=D4 Old Comment=STATUS New Comment=LED0
+Change Component Comment : Designator=P5 Old Comment=TOP_PANEL New Comment=TOP_PNL
+Change Component Description : Designator=C9 Old Description=Polarized Capacitor (Axial) New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C13 Old Description=Polarized Capacitor (Axial) New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C22 Old Description=Polarized Capacitor (Axial) New Description=Polarized Capacitor (Radial)
+Change Component Library : Designator=C1 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C2 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C3 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C4 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C5 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C6 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C7 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C8 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C9 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C10 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C11 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C12 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C13 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C15 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C19 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C20 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=C22 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R1 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R2 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R3 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R4 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R5 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R6 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R7 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R8 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R9 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R10 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R11 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R12 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R13 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Change Component Library : Designator=R14 Old Library=CaReSchlib1.SchLib New Library=CaRe_SchematicLib.SchLib
+Added Pin To Net: NetName=RESET Pin=U6-1
+Added Pin To Net: NetName=ATRX Pin=U6-2
+Added Pin To Net: NetName=ATTX Pin=U6-3
+Added Pin To Net: NetName=MONITOREN Pin=U6-4
+Added Pin To Net: NetName=ALMOUT Pin=U6-5
+Added Pin To Net: NetName=BATSTAT Pin=U6-6
+Added Pin To Net: NetName=+5V Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=XTAL1 Pin=U6-9
+Added Pin To Net: NetName=XTAL2 Pin=U6-10
+Added Pin To Net: NetName=POTCS Pin=U6-11
+Added Pin To Net: NetName=POTINC Pin=U6-12
+Added Pin To Net: NetName=POTU/D Pin=U6-13
+Added Pin To Net: NetName=DUR1 Pin=U6-14
+Added Pin To Net: NetName=DUR2 Pin=U6-15
+Added Pin To Net: NetName=AVCC_CTRL Pin=U6-16
+Added Pin To Net: NetName=MOSI Pin=U6-17
+Added Pin To Net: NetName=MISO Pin=U6-18
+Added Pin To Net: NetName=SCK Pin=U6-19
+Added Pin To Net: NetName=+5V Pin=U6-20
+Added Pin To Net: NetName=+5V Pin=U6-21
+Added Pin To Net: NetName=GND Pin=U6-22
+Added Pin To Net: NetName=VSIG Pin=U6-23
+Added Pin To Net: NetName=VBAT Pin=U6-24
+Added Pin To Net: NetName=GAINFBK Pin=U6-25
+Added Pin To Net: NetName=LED1 Pin=U6-26
+Added Pin To Net: NetName=LED2 Pin=U6-27
+Added Pin To Net: NetName=LED3 Pin=U6-28

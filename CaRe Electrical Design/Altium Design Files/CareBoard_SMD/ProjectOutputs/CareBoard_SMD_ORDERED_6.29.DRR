@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CareBoard_SMD_ORDERED_6.29.PcbDoc   6/29/2014  10:06:47 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CareBoard_SMD_ORDERED_6.29.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        14.96mil (0.37998mm)     Round          5                0.15 Inch (3.80 mm)
+T2        15mil (0.381mm)          Round          2                0.10 Inch (2.64 mm)
+T3        20mil (0.508mm)          Round          40               12.59 Inch (319.66 mm)
+T4        28mil (0.7112mm)         Round          26               17.21 Inch (437.08 mm)
+T5        30mil (0.762mm)          Round          6                2.04 Inch (51.84 mm)
+T6        31.5mil (0.8001mm)       Round          2                0.19 Inch (4.88 mm)
+T7        32mil (0.8128mm)         Round          1                0.00 Inch (0.00 mm)
+T8        35.43mil (0.89992mm)     Round          56               24.16 Inch (613.75 mm)
+T9        51.18mil (1.29997mm)     Round          16               3.66 Inch (93.09 mm)
+T10       59.06mil (1.50012mm)     Round          16               2.72 Inch (68.98 mm)
+T11       86.61mil (2.19989mm)     Round          2                0.15 Inch (3.81 mm)
+T12       94.49mil (2.40005mm)     Round          2                1.00 Inch (25.40 mm)
+T13       98.43mil (2.50012mm)     Round          2                0.30 Inch (7.59 mm)
+T14       125.98mil (3.19989mm)    Round          2                0.27 Inch (6.86 mm)
+T15       157mil (3.9878mm)        Round          4                7.60 Inch (193.04 mm)
+T16       90.55mil (2.29997mm)     Round          4         NPTH   0.56 Inch (14.10 mm)
+---------------------------------------------------------------------------
+Totals                                            186              72.70 Inch (1846.53 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

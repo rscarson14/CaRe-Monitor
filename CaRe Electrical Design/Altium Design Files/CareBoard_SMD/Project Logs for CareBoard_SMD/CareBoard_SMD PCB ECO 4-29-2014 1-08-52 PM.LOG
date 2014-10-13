@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=UVLO 2.6V Pin=C13-1
+Removed Pin From Net: NetName=VBAT Pin=C13-2
+Removed Pin From Net: NetName=NetC2_2 Pin=U4-1
+Removed Pin From Net: NetName=NetC2_1 Pin=U4-2
+Removed Pin From Net: NetName=NetC1_2 Pin=U4-3
+Removed Pin From Net: NetName=VREF Pin=U4-5
+Removed Pin From Net: NetName=NetC3_1 Pin=U4-6
+Removed Pin From Net: NetName=NetC3_2 Pin=U4-7
+Removed Pin From Net: NetName=VCARRIER Pin=U4-8
+Removed Pin From Net: NetName=VCARRIER Pin=U4-9
+Removed Pin From Net: NetName=NetC3_2 Pin=U4-10
+Removed Pin From Net: NetName=NetR16_1 Pin=U4-12
+Removed Pin From Net: NetName=VREF Pin=U4-13
+Removed Pin From Net: NetName=VREF Pin=U4-14
+Removed Pin From Net: NetName=NetR13_2 Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=VCC Pin=U5-3
+Removed Pin From Net: NetName=VBUS Pin=U5-4
+Removed Pin From Net: NetName=NetR14_2 Pin=U5-5
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Chip Cap New DesignItemId=SockCap
+Change Component DesignItemId : Designator=U7 Old DesignItemId=LM4040 New DesignItemId=TPS61200DRCT
+Change Component DesignItemId : Designator=U5 Old DesignItemId=MCP73831T-2ADI/OT New DesignItemId=TLV274IN
+Change Component Footprint: Designator=U7 Old Footprint=SOT23_L New Footprint=DRC10-2400X1650TP
+Change Component Footprint: Designator=U5 Old Footprint=SOT-23-OT5_L New Footprint=TI-D14_L
+Change Component Comment : Designator=C13 Old Comment=100nF New Comment=SockCap
+Change Component Comment : Designator=U7 Old Comment=LM4040 New Comment=TPS61200DRCT
+Change Component Comment : Designator=U5 Old Comment=MCP73831T-2ADI/OT New Comment=TLV274IN
+Change Component Library : Designator=C13 Old Library=CaRe_SchematicLib.SchLib New Library=CaReSchlib1.SchLib
+Added Component: Designator=C13(CAP0805)
+Added Component: Designator=U5(SOT-23-OT5_L)
+Added Component: Designator=U7(SOT23_L)
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=UVLO 2.6V Pin=C13-1
+Added Pin To Net: NetName=AVS Pin=C13-2
+Added Pin To Net: NetName=VBAT Pin=C13-2
+Added Pin To Net: NetName=VREF Pin=U4-1
+Added Pin To Net: NetName=VREF Pin=U4-2
+Added Pin To Net: NetName=NetR16_1 Pin=U4-3
+Added Pin To Net: NetName=AVS Pin=U4-4
+Added Pin To Net: NetName=NetC3_2 Pin=U4-5
+Added Pin To Net: NetName=VCARRIER Pin=U4-6
+Added Pin To Net: NetName=VCARRIER Pin=U4-7
+Added Pin To Net: NetName=NetC2_2 Pin=U4-8
+Added Pin To Net: NetName=NetC2_1 Pin=U4-9
+Added Pin To Net: NetName=NetC1_2 Pin=U4-10
+Added Pin To Net: NetName=VREF Pin=U4-12
+Added Pin To Net: NetName=NetC3_1 Pin=U4-13
+Added Pin To Net: NetName=NetC3_2 Pin=U4-14
+Added Pin To Net: NetName=NetR5_2 Pin=U5-1
+Added Pin To Net: NetName=NetR13_2 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U5-2
+Added Pin To Net: NetName=NetC4_1 Pin=U5-3
+Added Pin To Net: NetName=VCC Pin=U5-3
+Added Pin To Net: NetName=AVS Pin=U5-4
+Added Pin To Net: NetName=VBUS Pin=U5-4
+Added Pin To Net: NetName=NetC9_2 Pin=U5-5
+Added Pin To Net: NetName=NetR14_2 Pin=U5-5
+Added Pin To Net: NetName=NetR16_1 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Room: Name=CaRe_Schematic_SMD
